@@ -1,0 +1,1 @@
+"# spotify-local-file-manager" 
